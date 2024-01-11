@@ -11,7 +11,7 @@ const ListadoPacientes = ({pacientes, setPaciente, eliminarPaciente}) => {
                 (
                     <>
                         <h2 className="text-3xl font-black text-center">Listado Pacientes</h2>
-                        <p className="text-xl text-center mt-5 mb-10">Administra {""}
+                        <p className="text-xl text-center mt-5 mb-10">Administra {""} deply github {""}
                             <span className="text-indigo-600 font-bold" >Tus Pacientes y Citas</span>
                         </p>
 
